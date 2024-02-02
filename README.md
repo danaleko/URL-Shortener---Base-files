@@ -5,3 +5,4 @@ Fully Functional URL Shortener Using Html, Css and JavaScript, with a beautiful 
 <a href="https://youtu.be/dxRfGz7lNUQ">Watch Tutorial on how to Create the Shortener</a>
 
 
+![url-shortener](https://github.com/danaleko/URL-Shortener---Base-files/assets/60117412/1f09dbe3-9e76-4e12-8737-34a7f812c0b9)
